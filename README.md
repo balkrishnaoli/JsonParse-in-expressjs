@@ -1,5 +1,4 @@
 # JsonParse-in-expressjs
-parsed JSON file
 Shows different ways to find value of elements of JSON object.
 
 # Build/Run
