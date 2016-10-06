@@ -1,17 +1,11 @@
 # JsonParse-in-expressjs
-parsed json file
-
-# JavaScript CRUD - EJS/Express Versions
-
+parsed JSON file
 Shows different ways to find value of elements of JSON object.
-
-# Setting Up
-clone the git repository
 
 # Build/Run
 
 ```sh
-$ npm install # install from package.json
+$ npm install # installs from package.json
 $ node server.js # to run the server
 ```
 
